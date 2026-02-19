@@ -4,9 +4,9 @@
 
 # 🔎 Intercom Explorer
 
-A simple **scan-style** web explorer for the **Trac-Systems/awesome-intercom** ecosystem — built to browse forks, filter projects, and inspect repo stats in a clean UI.
+A simple **scan-style** web explorer for the **Trac-Systems/awesome-intercom** ecosystem built to browse forks, filter projects, and inspect repo stats in a clean UI.
 
-> Inspired by Etherscan/BaseScan layout, but kept lightweight and easy to run on **Termux**.
+> Inspired by Etherscan/BaseScan layout, but kept lightweight and easy to run
 
 ---
 
