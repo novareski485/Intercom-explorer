@@ -1,4 +1,3 @@
-cat > README.md <<'MD'
 # 🔎 Intercom Explorer
 
 A simple **scan-style** web explorer for the **Trac-Systems/awesome-intercom** ecosystem — built to browse forks, filter projects, and inspect repo stats in a clean UI.
