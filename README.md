@@ -36,3 +36,6 @@ python app.py
 ![Home](IMG_20260219_154419_224.jpg)
 
 ![Latest](IMG_20260219_154422_678.jpg)
+
+
+wallet : trac12vfqgnsccxva64aj7s5p5agj86qp6dkvltr5vxzfjl2zl80qqxfqnxqazm
