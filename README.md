@@ -20,7 +20,7 @@ A simple **scan-style** web explorer for the **Trac-Systems/awesome-intercom** e
 ## ⚙️ Installation
 
 ```md
-## ⚙️ Installation (Termux)
+## ⚙️ Installation
 
 ```bash
 pkg update -y && pkg upgrade -y
