@@ -30,8 +30,6 @@ python app.py
 
 ## 📸 Preview
 
-![Home](IMG_20260219_154419_224.jpg)
+![Home](assets/IMG_20260219_154419_224.jpg)
 
-## 📸 Preview
-
-![Home](IMG_20260219_154419_224.jpg)
+![Latest](assets/IMG_20260219_154422_878.jpg)
