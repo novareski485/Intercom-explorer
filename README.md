@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Framework-Flask-black)
+![Trac](https://img.shields.io/badge/Network-Trac-orange)
+
 # 🔎 Intercom Explorer
 
 A simple **scan-style** web explorer for the **Trac-Systems/awesome-intercom** ecosystem — built to browse forks, filter projects, and inspect repo stats in a clean UI.
