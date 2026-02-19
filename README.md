@@ -27,3 +27,11 @@ pip install flask requests
 git clone https://github.com/novareski485/Intercom-explorer.git
 cd Intercom-explorer
 python app.py
+
+## 📸 Preview
+
+![Home](IMG_20260219_154419_224.jpg)
+
+## 📸 Preview
+
+![Home](IMG_20260219_154419_224.jpg)
