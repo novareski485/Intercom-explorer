@@ -28,25 +28,3 @@ pip install flask requests
 git clone https://github.com/novareski485/Intercom-explorer.git
 cd Intercom-explorer
 python app.py
-
-📦 Data Source
-Trac-Systems/awesome-intercom (README curated list)
-🛣️ Roadmap
-[ ] Repo detail page (like “address page” on scan sites)
-[ ] Export results to JSON/CSV
-[ ] Deploy guide (Render/Vercel/Railway)
-
-🛣️ Roadmap
-[ ] Repo detail page (like “address page” on scan sites)
-[ ] Export results to JSON/CSV
-[ ] Deploy guide (Render/Vercel/Railway)
-
-📄 License
-MIT MD
----
-
-### 3) Commit + push
-```bash
-git add README.md
-git commit -m "Replace README with Intercom Explorer scan-style description"
-git push origin main
