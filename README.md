@@ -19,6 +19,9 @@ A simple **scan-style** web explorer for the **Trac-Systems/awesome-intercom** e
 
 ## ⚙️ Installation (Termux)
 
+```md
+## ⚙️ Installation (Termux)
+
 ```bash
 pkg update -y && pkg upgrade -y
 pkg install -y git python
@@ -27,7 +30,7 @@ pip install flask requests
 git clone https://github.com/novareski485/Intercom-explorer.git
 cd Intercom-explorer
 python app.py
-
+```
 ## 📸 Preview
 
 ![Home](assets/IMG_20260219_154419_224.jpg)
