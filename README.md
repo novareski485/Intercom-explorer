@@ -17,7 +17,7 @@ A simple **scan-style** web explorer for the **Trac-Systems/awesome-intercom** e
 
 ---
 
-## ⚙️ Installation (Termux)
+## ⚙️ Installation
 
 ```md
 ## ⚙️ Installation (Termux)
